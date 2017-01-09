@@ -10,8 +10,6 @@
 ## Build generated
 build/
 DerivedData/
-MobileCenter-SDK-iOS/
-Documentation/**/Generated
 
 ## Various settings
 *.pbxuser
